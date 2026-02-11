@@ -1,4 +1,4 @@
-# alvaro-hello
+# CSS básico en el curso de HTML y CSS de Dalto
 Mi primer repositorio
 
 ## Este es mi primer repositorios
