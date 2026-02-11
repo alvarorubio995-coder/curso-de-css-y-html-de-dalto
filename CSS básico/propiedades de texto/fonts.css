@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Garamond,momo';
+    src: url(Garamond/EBGaramond-Regular.ttf) format(truetype);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Garamond,momo';
+    src: url(Garamond/EBGaramond-Bold.ttf) format(truetype);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'Garamond,momo';
+    src: url(Garamond/EBGaramond-Medium.ttf) format(truetype);
+    font-weight: 100;
+}

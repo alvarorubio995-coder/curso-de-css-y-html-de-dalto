@@ -1,0 +1,23 @@
+.card{
+    width: 500px;
+    margin: auto;
+    background: #d7e;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+h1{
+    letter-spacing: 3px;
+    color: #d9f;
+}
+
+h2{
+    letter-spacing: 2px;
+}
+
+p{
+    width: auto;
+    padding: 20px;
+    padding-top: 0;
+    text-align: justify;
+}

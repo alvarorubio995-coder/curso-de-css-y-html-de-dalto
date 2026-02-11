@@ -1,0 +1,17 @@
+body{
+    margin:0;
+}
+
+.box1{
+    background-color: aquamarine;
+    height: 150px;
+    width: 150px;
+    margin-bottom: 20px;
+}
+
+.box2{
+    background-color: aquamarine;
+    height: 150px;
+    width: 150px;
+    margin-top: 20px;
+}

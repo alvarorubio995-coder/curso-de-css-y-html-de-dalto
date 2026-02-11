@@ -1,0 +1,33 @@
+html{
+    font-size: 15px;
+}
+
+div{
+    background-color: #ededed;
+    padding: 20px;
+    font-family: sans-serif;
+    border-left: 4px solid #747474;
+    font-size: 15px;
+    width: 80vh;
+    height: 80vw;
+    box-sizing: border-box;
+    margin: auto;
+    margin: 8%;
+}
+
+h1{
+    margin: 0;
+    font-size: 24px;
+    width: 80%;
+}
+
+span{
+    color: #999;
+    font-size: 0.7em;
+    font-weight: 100;
+}
+
+p{
+    color: #555;
+    font-size: 1rem;
+}

@@ -1,0 +1,11 @@
+div{
+    background: lightblue;
+    width: 150px;
+    margin: auto;
+    text-align: center;
+}
+
+div{
+border: 5px solid black;
+    border-radius: 5%;
+}
